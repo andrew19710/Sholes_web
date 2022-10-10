@@ -1,8 +1,24 @@
-p{
-    color: blue;
+header {
+    font-family: Georgia, 'Arial';
+    color: brown;
+    background-color: aquamarine;
+    border: 1px solid gold;
 }
 
-h1{
+h1 {
     text-align: center;
-    padding: 5px;
+    font-size: 80px;
 }
+
+nav ul li{
+    display: inline-block;
+}
+
+#first-section{
+    border: 1px solid pink;
+}
+
+.nav-list{
+    width: 20%;
+}
+
